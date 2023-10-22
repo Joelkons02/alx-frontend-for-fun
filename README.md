@@ -1,4 +1,4 @@
-me
+alx-frontend-for-fun
 
 ![GitHub](https://img.shields.io/badge/GitHub-ALX-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
