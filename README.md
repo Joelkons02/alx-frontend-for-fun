@@ -48,5 +48,5 @@ This project is licensed under the [MIT License](LICENSE.md).
 
 ---
 
-Copyright © 2023 [Your Name]
+Copyright © 2023 [Joel Nchindap]
 
